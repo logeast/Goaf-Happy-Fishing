@@ -1,5 +1,7 @@
 # Goaf-Happy-Fishing
 
+[English](./README.md) | [中文](./README.zh.md)
+
 A macOS app to simulate the system update.
 
 Turn on the app, then take a cup of coffee for rest.
@@ -19,7 +21,7 @@ sudo spctl --master-disable
 
 ## Our Logo
 
-Our logo is a goldfish swimming in the water. Which is inspared with the Figma Draft named [interactive fish tank illustrations](https://www.figma.com/community/file/1047377800290712934/interactive-fish-tank-illustrations), Thanks Erin so march.
+Our logo is a goldfish is swimming in the water. Which is inspared with the Figma Draft named [interactive fish tank illustrations](https://www.figma.com/community/file/1047377800290712934/interactive-fish-tank-illustrations), Thanks Erin so march.
 
 ![goof-logo](./design/goof-logo.png)
 
